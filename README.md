@@ -24,7 +24,7 @@ A `critic` agent runs after each stage for schema + cross-stage consistency. Fai
 ## Install
 
 ```bash
-git clone https://github.com/<you>/startup-validator
+git clone https://github.com/dielamb/startup-validator.git
 cd startup-validator
 ./install.sh
 ```
