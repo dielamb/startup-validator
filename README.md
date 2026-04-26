@@ -1,5 +1,9 @@
 # Startup Validator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Lint](https://github.com/dielamb/startup-validator/actions/workflows/lint.yml/badge.svg)](https://github.com/dielamb/startup-validator/actions/workflows/lint.yml)
+[![Built with Claude Code](https://img.shields.io/badge/built_with-Claude_Code-7C3AED)](https://docs.claude.com/en/docs/claude-code)
+
 Multi-agent system that pressure-tests startup ideas via a Paul Graham-style 5-step pipeline. Built as Claude Code subagents — install once, invoke globally with `/validate-idea`.
 
 ## What it does
